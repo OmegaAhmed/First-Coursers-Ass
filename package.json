@@ -1,0 +1,23 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "New Assignment from coursera",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "node aboutus.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmegaAhmed/First-Coursers-Ass.git"
+  },
+  "author": "Ahmed KOtb\u001b[D\u001b[o",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmegaAhmed/First-Coursers-Ass/issues"
+  },
+  "homepage": "https://github.com/OmegaAhmed/First-Coursers-Ass#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
